@@ -1,0 +1,72 @@
+/* Put your Mobile First styles here */
+
+
+
+
+
+/* #Mobile - Landscape
+================================================== */
+	/* Note: Design for a width of 480px */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+} /* Close Mobile Landscape media query */
+
+
+
+
+/* #Tablet - Portrait
+================================================== */
+	/* Note: Design for a width of 768px */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+
+} /* Close Tablet media query */
+
+
+
+
+/* # 960 Grid - Desktop
+================================================== */
+	/* Note: Design for a width of 480px */
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+
+
+} /* Close Desktop media query */
+
+
+
+
+/* Going BIG, we love the large screens */
+@media only screen and (min-width: 1200px)  {
+
+
+} /* Close Wide Desktop media query */
+
+
+
+
+
+/* Styles for Internet Explorer
+================================================== */
+
+
+
+
+
+/* Put your styles above here
+================================================== 
+ * Print styles: Inlined to avoid required HTTP connection: h5bp.com/r */
+@media print {
+	* { background: transparent !important; color: #000 !important; /* Black prints faster: h5bp.com/s */ box-shadow:none !important; text-shadow: none !important; }
+	a, a:visited { text-decoration: underline; }
+	a[href]:after { content: " (" attr(href) ")"; }
+	abbr[title]:after { content: " (" attr(title) ")"; }
+	pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+	thead { display: table-header-group; /* h5bp.com/t */ }
+	tr, img { page-break-inside: avoid; }
+	img { max-width: 100% !important; }
+	@page { margin: 0.5cm; }
+	p, h2, h3 { orphans: 3; widows: 3; }
+	h2, h3 { page-break-after: avoid; }
+}
