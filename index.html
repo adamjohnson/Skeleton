@@ -22,5 +22,29 @@
 	================================================== -->
 
 
+
+
+
+
+
+
+<!-- Fix IE 8 and below so that media queries get supported -->
+<!--[if lt IE 9]>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+<![endif]-->
+
+<!-- begin browser-update.org -->
+<script> 
+	var $buoop = {} 
+	$buoop.ol = window.onload; 
+	window.onload=function(){ 
+		 try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+		 var e = document.createElement("script"); 
+		 e.setAttribute("type", "text/javascript"); 
+		 e.setAttribute("src", "http://browser-update.org/update.js"); 
+		 document.body.appendChild(e); 
+	} 
+</script> 
+<!-- end browser-update.org -->
 </body>
 </html>
