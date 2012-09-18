@@ -28,7 +28,7 @@
 
 /* # 960 Grid - Desktop
 ================================================== */
-	/* Note: Design for a width of 480px */
+	/* Note: Design for a width of 960px */
 @media only screen and (min-width: 960px) and (max-width: 1199px) {
 
 
@@ -37,7 +37,9 @@
 
 
 
-/* Going BIG, we love the large screens */
+/* Going BIG, we love the large screens - 1200px and up
+================================================== */
+	/* Note: Design for a width of 1200px */
 @media only screen and (min-width: 1200px)  {
 
 

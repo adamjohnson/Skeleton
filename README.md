@@ -1,6 +1,6 @@
 # Mobile First Skeleton Framework (beta)
 
-A mobile first version of Dave Gamache's Skeleton. Starting at mobile portrait and moving up to desktop sizes.
+A mobile first version of Dave Gamache's Skeleton. Starting at mobile portrait and moving up to 1200px desktop sizes.
 
 **Credits**
 * More information about Skeleton: http://getskeleton.com
