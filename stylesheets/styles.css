@@ -7,7 +7,7 @@
 /* #Mobile - Landscape
 ================================================== */
 	/* Note: Design for a width of 480px */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
+@media only screen and (min-width: 480px) {
 
 
 } /* Close Mobile Landscape media query */
@@ -18,7 +18,7 @@
 /* #Tablet - Portrait
 ================================================== */
 	/* Note: Design for a width of 768px */
-@media only screen and (min-width: 768px) and (max-width: 959px) {
+@media only screen and (min-width: 768px) {
 
 
 } /* Close Tablet media query */
@@ -29,7 +29,7 @@
 /* # 960 Grid - Desktop
 ================================================== */
 	/* Note: Design for a width of 960px */
-@media only screen and (min-width: 960px) and (max-width: 1199px) {
+@media only screen and (min-width: 960px) {
 
 
 } /* Close Desktop media query */
