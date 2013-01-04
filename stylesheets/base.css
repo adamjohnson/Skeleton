@@ -81,7 +81,7 @@ img, object, embed { max-width: 100%; }
 
 	/* Note: Design for a width of 480px */
 
-@media only screen and (min-width: 480px) and (max-width: 767px) {
+@media only screen and (min-width: 480px) {
 	.container { width: 420px; }
 
 	.container .one.column,
@@ -123,7 +123,7 @@ img, object, embed { max-width: 100%; }
 
 	/* Note: Design for a width of 768px */
 
-@media only screen and (min-width: 768px) and (max-width: 959px) {
+@media only screen and (min-width: 768px) {
 	.container                      { width: 768px; }
 
 	.container .one.column,
@@ -170,7 +170,7 @@ img, object, embed { max-width: 100%; }
 
 	/* Note: Design for a width of 960px */
 
-@media only screen and (min-width: 960px) and (max-width: 1199px) {
+@media only screen and (min-width: 960px) {
 
 	.container                     { width: 960px; }
 
