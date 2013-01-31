@@ -45,13 +45,9 @@ img, object, embed { max-width: 100%; }
 
 	/* Note: Design for a width of 320px */
 
-.container { width: 300px; position: relative; margin: 0 auto; padding: 0; }
+.container { width: 300px; position: relative; margin: 0 auto; }
 .container .columns,
 .container .column { float: left; display: inline; }
-
-/* Nested Column Classes */
-.column.alpha, .columns.alpha { margin-left: 0; }
-.column.omega, .columns.omega { margin-right: 0; }
 
 .row                          { margin-bottom: 20px; }
 
