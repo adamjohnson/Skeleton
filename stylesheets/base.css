@@ -35,7 +35,7 @@ fieldset { border: 0; margin: 0; padding: 0; }
 textarea { resize: vertical; }
 
  /* Fluid images and objects */
-img, object, embed { max-width: 100%; }
+img, iframe, object, embed { max-width: 100%; }
 
 
 /* Going MOBILE FIRST, Starting small with a base grid
