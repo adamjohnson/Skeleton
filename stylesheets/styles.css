@@ -6,8 +6,8 @@
 
 /* #Mobile - Landscape
 ================================================== */
-	/* Note: Design for a width of 480px */
-@media only screen and (min-width: 480px) {
+  /* Note: Design for a width of 480px */
+@media only screen and (min-width: 30em) {
 
 
 } /* Close Mobile Landscape media query */
@@ -17,8 +17,8 @@
 
 /* #Tablet - Portrait
 ================================================== */
-	/* Note: Design for a width of 768px */
-@media only screen and (min-width: 768px) {
+  /* Note: Design for a width of 768px */
+@media only screen and (min-width: 48em) {
 
 
 } /* Close Tablet media query */
@@ -28,8 +28,8 @@
 
 /* # 960 Grid - Desktop
 ================================================== */
-	/* Note: Design for a width of 960px */
-@media only screen and (min-width: 960px) {
+  /* Note: Design for a width of 960px */
+@media only screen and (min-width: 60em) {
 
 
 } /* Close Desktop media query */
@@ -39,18 +39,20 @@
 
 /* Going BIG, we love the large screens - 1200px and up
 ================================================== */
-	/* Note: Design for a width of 1200px */
-@media only screen and (min-width: 1200px)  {
+  /* Note: Design for a width of 1200px */
+@media only screen and (min-width: 75em)  {
 
 
 } /* Close Wide Desktop media query */
 
 
 
-
-
 /* Styles for Internet Explorer
 ================================================== */
+
+
+
+
 
 
 
